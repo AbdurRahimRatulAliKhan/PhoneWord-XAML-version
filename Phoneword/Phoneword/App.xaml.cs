@@ -11,7 +11,7 @@ namespace Phoneword
         {
             InitializeComponent();
 
-            MainPage = new OldMainPage();
+            MainPage = new MainPage();
         }
 
         protected override void OnStart()

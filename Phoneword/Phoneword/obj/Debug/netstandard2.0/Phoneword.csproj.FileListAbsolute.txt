@@ -10,3 +10,30 @@ C:\Users\Ratul Ali\Desktop\Downloaded Xamarin Projects\mslearn-xamarin-forms-ui-
 C:\Users\Ratul Ali\Desktop\Downloaded Xamarin Projects\mslearn-xamarin-forms-ui-with-xaml-master\src\exercise1\start\Phoneword\Phoneword\obj\Debug\netstandard2.0\XamlC.stamp
 C:\Users\Ratul Ali\Desktop\Downloaded Xamarin Projects\mslearn-xamarin-forms-ui-with-xaml-master\src\exercise1\start\Phoneword\Phoneword\obj\Debug\netstandard2.0\Phoneword.dll
 C:\Users\Ratul Ali\Desktop\Downloaded Xamarin Projects\mslearn-xamarin-forms-ui-with-xaml-master\src\exercise1\start\Phoneword\Phoneword\obj\Debug\netstandard2.0\Phoneword.pdb
+C:\Users\Ratul Ali\Desktop\Downloaded Xamarin Projects\mslearn-xamarin-forms-ui-with-xaml-master\src\exercise1\start\Phoneword\Phoneword\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Users\Ratul Ali\Desktop\Downloaded Xamarin Projects\start\Phoneword\Phoneword\bin\Debug\netstandard2.0\Phoneword.deps.json
+C:\Users\Ratul Ali\Desktop\Downloaded Xamarin Projects\start\Phoneword\Phoneword\bin\Debug\netstandard2.0\Phoneword.dll
+C:\Users\Ratul Ali\Desktop\Downloaded Xamarin Projects\start\Phoneword\Phoneword\bin\Debug\netstandard2.0\Phoneword.pdb
+C:\Users\Ratul Ali\Desktop\Downloaded Xamarin Projects\start\Phoneword\Phoneword\obj\Debug\netstandard2.0\Phoneword.csproj.AssemblyReference.cache
+C:\Users\Ratul Ali\Desktop\Downloaded Xamarin Projects\start\Phoneword\Phoneword\obj\Debug\netstandard2.0\Phoneword.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ratul Ali\Desktop\Downloaded Xamarin Projects\start\Phoneword\Phoneword\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\Ratul Ali\Desktop\Downloaded Xamarin Projects\start\Phoneword\Phoneword\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Users\Ratul Ali\Desktop\Downloaded Xamarin Projects\start\Phoneword\Phoneword\obj\Debug\netstandard2.0\Phoneword.AssemblyInfoInputs.cache
+C:\Users\Ratul Ali\Desktop\Downloaded Xamarin Projects\start\Phoneword\Phoneword\obj\Debug\netstandard2.0\Phoneword.AssemblyInfo.cs
+C:\Users\Ratul Ali\Desktop\Downloaded Xamarin Projects\start\Phoneword\Phoneword\obj\Debug\netstandard2.0\Phoneword.csproj.CoreCompileInputs.cache
+C:\Users\Ratul Ali\Desktop\Downloaded Xamarin Projects\start\Phoneword\Phoneword\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\Ratul Ali\Desktop\Downloaded Xamarin Projects\start\Phoneword\Phoneword\obj\Debug\netstandard2.0\Phoneword.dll
+C:\Users\Ratul Ali\Desktop\Downloaded Xamarin Projects\start\Phoneword\Phoneword\obj\Debug\netstandard2.0\Phoneword.pdb
+C:\Users\Ratul Ali\source\repos\start\Phoneword\Phoneword\obj\Debug\netstandard2.0\Phoneword.csproj.AssemblyReference.cache
+C:\Users\Ratul Ali\source\repos\start\Phoneword\Phoneword\obj\Debug\netstandard2.0\Phoneword.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ratul Ali\source\repos\start\Phoneword\Phoneword\obj\Debug\netstandard2.0\Phoneword.dll
+C:\Users\Ratul Ali\source\repos\start\Phoneword\Phoneword\obj\Debug\netstandard2.0\Phoneword.pdb
+C:\Users\Ratul Ali\source\repos\start\Phoneword\Phoneword\bin\Debug\netstandard2.0\Phoneword.deps.json
+C:\Users\Ratul Ali\source\repos\start\Phoneword\Phoneword\bin\Debug\netstandard2.0\Phoneword.dll
+C:\Users\Ratul Ali\source\repos\start\Phoneword\Phoneword\bin\Debug\netstandard2.0\Phoneword.pdb
+C:\Users\Ratul Ali\source\repos\start\Phoneword\Phoneword\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\Ratul Ali\source\repos\start\Phoneword\Phoneword\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Users\Ratul Ali\source\repos\start\Phoneword\Phoneword\obj\Debug\netstandard2.0\Phoneword.AssemblyInfoInputs.cache
+C:\Users\Ratul Ali\source\repos\start\Phoneword\Phoneword\obj\Debug\netstandard2.0\Phoneword.AssemblyInfo.cs
+C:\Users\Ratul Ali\source\repos\start\Phoneword\Phoneword\obj\Debug\netstandard2.0\Phoneword.csproj.CoreCompileInputs.cache
+C:\Users\Ratul Ali\source\repos\start\Phoneword\Phoneword\obj\Debug\netstandard2.0\XamlC.stamp

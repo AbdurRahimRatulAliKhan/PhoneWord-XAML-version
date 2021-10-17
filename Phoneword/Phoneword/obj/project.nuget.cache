@@ -1,14 +1,14 @@
 {
   "version": 2,
-  "dgSpecHash": "jnvCFF6z9C1XQ5DE/hjjyN3VbsLD1S1SrBNwgZEtsM5MHRcv8kkYsrcTyK+JotgJ2HSbwPmSAVDytcXK5xNkvA==",
+  "dgSpecHash": "xdk7cvRpFvhrsqHmYbfTFSXawYb9joK0n8kNOaOpLQAvrX+8nM8HoznKr//eiTpt2he1m1m6N+RLM0aEJVQm2g==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Ratul Ali\\Desktop\\Downloaded Xamarin Projects\\mslearn-xamarin-forms-ui-with-xaml-master\\src\\exercise1\\start\\Phoneword\\Phoneword\\Phoneword.csproj",
+  "projectFilePath": "C:\\Users\\Ratul Ali\\source\\repos\\start\\Phoneword\\Phoneword\\Phoneword.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Ratul Ali\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
     "C:\\Users\\Ratul Ali\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512",
     "C:\\Users\\Ratul Ali\\.nuget\\packages\\system.numerics.vectors\\4.5.0\\system.numerics.vectors.4.5.0.nupkg.sha512",
     "C:\\Users\\Ratul Ali\\.nuget\\packages\\xamarin.essentials\\1.0.1\\xamarin.essentials.1.0.1.nupkg.sha512",
-    "C:\\Users\\Ratul Ali\\.nuget\\packages\\xamarin.forms\\3.4.0.1029999\\xamarin.forms.3.4.0.1029999.nupkg.sha512"
+    "C:\\Users\\Ratul Ali\\.nuget\\packages\\xamarin.forms\\5.0.0.2125\\xamarin.forms.5.0.0.2125.nupkg.sha512"
   ],
   "logs": []
 }

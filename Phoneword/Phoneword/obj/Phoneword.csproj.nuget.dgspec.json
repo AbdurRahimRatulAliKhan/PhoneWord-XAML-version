@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Ratul Ali\\Desktop\\Downloaded Xamarin Projects\\mslearn-xamarin-forms-ui-with-xaml-master\\src\\exercise1\\start\\Phoneword\\Phoneword\\Phoneword.csproj": {}
+    "C:\\Users\\Ratul Ali\\source\\repos\\start\\Phoneword\\Phoneword\\Phoneword.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Ratul Ali\\Desktop\\Downloaded Xamarin Projects\\mslearn-xamarin-forms-ui-with-xaml-master\\src\\exercise1\\start\\Phoneword\\Phoneword\\Phoneword.csproj": {
+    "C:\\Users\\Ratul Ali\\source\\repos\\start\\Phoneword\\Phoneword\\Phoneword.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Ratul Ali\\Desktop\\Downloaded Xamarin Projects\\mslearn-xamarin-forms-ui-with-xaml-master\\src\\exercise1\\start\\Phoneword\\Phoneword\\Phoneword.csproj",
+        "projectUniqueName": "C:\\Users\\Ratul Ali\\source\\repos\\start\\Phoneword\\Phoneword\\Phoneword.csproj",
         "projectName": "Phoneword",
-        "projectPath": "C:\\Users\\Ratul Ali\\Desktop\\Downloaded Xamarin Projects\\mslearn-xamarin-forms-ui-with-xaml-master\\src\\exercise1\\start\\Phoneword\\Phoneword\\Phoneword.csproj",
+        "projectPath": "C:\\Users\\Ratul Ali\\source\\repos\\start\\Phoneword\\Phoneword\\Phoneword.csproj",
         "packagesPath": "C:\\Users\\Ratul Ali\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Ratul Ali\\Desktop\\Downloaded Xamarin Projects\\mslearn-xamarin-forms-ui-with-xaml-master\\src\\exercise1\\start\\Phoneword\\Phoneword\\obj\\",
+        "outputPath": "C:\\Users\\Ratul Ali\\source\\repos\\start\\Phoneword\\Phoneword\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
@@ -58,7 +58,7 @@
             },
             "Xamarin.Forms": {
               "target": "Package",
-              "version": "[3.4.0.1029999, )"
+              "version": "[5.0.0.2125, )"
             }
           },
           "imports": [

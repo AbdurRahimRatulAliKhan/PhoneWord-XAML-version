@@ -1,0 +1,4 @@
+C:\Users\Ratul Ali\source\repos\start\Phoneword\Phoneword.Android\obj\Debug\100\MonoAndroid,Version=v10.0.AssemblyAttributes.cs
+C:\Users\Ratul Ali\source\repos\start\Phoneword\Phoneword.Android\obj\Debug\100\build.props
+C:\Users\Ratul Ali\source\repos\start\Phoneword\Phoneword.Android\obj\Debug\100\adb.props
+C:\Users\Ratul Ali\source\repos\start\Phoneword\Phoneword.Android\obj\Debug\100\Phoneword.Android.csproj.AssemblyReference.cache
