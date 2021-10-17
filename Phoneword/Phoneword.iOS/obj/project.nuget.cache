@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "SagDXWuyUZK81EbFmaBrl3B2LLK7TKjq6PGeasF4Quz5TKO8Ta+f7ASGJoojI6t7JaiNWKRJGlOuaV7t5+wuPQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Ratul Ali\\Desktop\\Downloaded Xamarin Projects\\mslearn-xamarin-forms-ui-with-xaml-master\\src\\exercise1\\start\\Phoneword\\Phoneword.iOS\\Phoneword.iOS.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Ratul Ali\\.nuget\\packages\\system.numerics.vectors\\4.5.0\\system.numerics.vectors.4.5.0.nupkg.sha512",
+    "C:\\Users\\Ratul Ali\\.nuget\\packages\\xamarin.essentials\\1.0.1\\xamarin.essentials.1.0.1.nupkg.sha512",
+    "C:\\Users\\Ratul Ali\\.nuget\\packages\\xamarin.forms\\3.4.0.1029999\\xamarin.forms.3.4.0.1029999.nupkg.sha512"
+  ],
+  "logs": []
+}
